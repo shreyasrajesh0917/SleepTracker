@@ -37,6 +37,6 @@ void setup()
 
 void loop() 
 {
-  // Next Steps: ask GPT for documentation on these libraries so that I can try to use the proper methods myself
+  // Next Steps: ask for documentation on these libraries so that I can try to use the proper methods myself
   // Think about what data I want to collect and more importantly HOW TO DISPLAY IT on the phone
 }
